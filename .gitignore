@@ -1,6 +1,9 @@
 energy_monitor
 host_receiver
 recv
+Makefile
+libtool
+*.status
 *.sublime-workspace
 *.s
 *.o
