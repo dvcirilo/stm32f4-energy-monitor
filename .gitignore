@@ -5,6 +5,7 @@ recv
 *.s
 *.o
 *.i
+*.log
 output_results
 *.swp
 .deps
